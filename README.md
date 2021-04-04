@@ -17,6 +17,7 @@ could be useful for someone else.
  - [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
  - [Git Cheatsheet](https://gist.github.com/hofmannsven/6814451)
  - [Gitignore Generator](https://www.toptal.com/developers/gitignore)
+ - [Github Workflow](https://guides.github.com/introduction/flow/)
 
 ## Go Language <img align="right" width="100" height="100" src="images/golang.png">
  - [Go by Example](https://gobyexample.com/)
@@ -38,6 +39,7 @@ could be useful for someone else.
 
 ## Python <img align="right" width="80" height="80" src="images/python.png">
  - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+ - [Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 
 ## Sass/Scss <img align="right" width="80" height="80" src="images/sass.svg">
  - [Sass Cheatsheet](https://devhints.io/sass)
