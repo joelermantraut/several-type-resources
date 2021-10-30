@@ -48,6 +48,7 @@ could be useful for someone else.
  - [Sass Cheatsheet](https://devhints.io/sass)
 
 ## STM32F4 Microcontrollers and Boards <img align="right" width="100" height="70" src="images/st.png">
+ - [Tilen Majerle STM32F4 Web Page](https://stm32f4-discovery.net/)
  - [Tilen Majerle STM32F4 libraries](http://stm32f4-discovery.net/2014/05/all-stm32f429-libraries-at-one-place/)
 
 ## Other
