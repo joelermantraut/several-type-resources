@@ -32,6 +32,7 @@ could be useful for someone else.
 
 ## Markdown <img align="right" width="80" height="80" src="images/markdown.png">
  - [Mardown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ## Neovim <img align="right" width="80" height="80" src="images/vim.png">
  - [NeoVim Cheatsheet](https://devhints.io/vim)
