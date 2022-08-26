@@ -11,6 +11,7 @@ could be useful for someone else.
 
 ## C <img align="right" width="70" height="80" src="images/c.png">
  - [Recommended C style and coding rules](https://github.com/MaJerle/c-code-style)
+ - [C Language Links](https://github.com/DJviolin/the-c-programming-language/blob/master/c-cheat-sheet.md)
 
 ## Electronics <img align="right" width="80" height="80" src="images/electronics.jpg">
  - [DIY Arduino RC Transmiter](https://howtomechatronics.com/projects/diy-arduino-rc-transmitter/)
