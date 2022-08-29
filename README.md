@@ -59,3 +59,4 @@ could be useful for someone else.
  - [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
  - [Awesome Shell](https://github.com/alebcay/awesome-shell)
  - [Easing Functions Cheatsheet](https://easings.net/)
+ - [Emoji List](https://es.piliapp.com/emoji/list/)
