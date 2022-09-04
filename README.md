@@ -46,6 +46,7 @@ could be useful for someone else.
 ## Python <img align="right" width="80" height="80" src="images/python.png">
  - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
  - [Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+ - [Pip Cheatshet](http://dcjtech.info/wp-content/uploads/2015/10/Pip-Cheatsheet.pdf)
 
 ## Sass/Scss <img align="right" width="80" height="80" src="images/sass.svg">
  - [Sass Cheatsheet](https://devhints.io/sass)
