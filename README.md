@@ -32,6 +32,7 @@ could be useful for someone else.
  - [Javascript Cheatsheet](https://github.com/krishnr/JavaScript-cheat-sheet)
 
 ## Markdown <img align="right" width="80" height="80" src="images/markdown.png">
+ - [Basic Sintax](https://www.markdownguide.org/basic-syntax/)
  - [Mardown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
