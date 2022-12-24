@@ -63,3 +63,6 @@ could be useful for someone else.
  - [Awesome Shell](https://github.com/alebcay/awesome-shell)
  - [Easing Functions Cheatsheet](https://easings.net/)
  - [Emoji List](https://es.piliapp.com/emoji/list/)
+ 
+## Interesting Posts
+ - [Implementing Async Features in Python - A Step-by-step Guide](https://www.velotio.com/engineering-blog/async-features-in-python#:~:text=An%20async%20function%20uses%20the,Tasks%20as%20a%20Future%20object)
