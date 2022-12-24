@@ -27,6 +27,7 @@ could be useful for someone else.
  - [Go by Example](https://gobyexample.com/)
  - [Go Cheatsheet](https://github.com/a8m/golang-cheat-sheet)
  - [Learn Go in 12 Minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
+ - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org)
 
 ## Javascript <img align="right" width="80" height="80" src="images/javascript.png">
  - [Javascript Cheatsheet](https://github.com/krishnr/JavaScript-cheat-sheet)
