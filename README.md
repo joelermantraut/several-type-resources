@@ -56,7 +56,7 @@ could be useful for someone else.
  - [Tilen Majerle STM32F4 Web Page](https://stm32f4-discovery.net/)
  - [Tilen Majerle STM32F4 libraries](http://stm32f4-discovery.net/2014/05/all-stm32f429-libraries-at-one-place/)
 
-## Linux
+## Linux <img align="right" width="90" height="60" src="images/linux.png">
  - [How to disable keyring popup on Ubuntu](https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu#:~:text=In%20the%20keyring%20application%2C%20right,and%20click%20on%20Change%20Password%20.&text=Authenticate%20with%20the%20keyring%20by%20using%20your%20current%20password.&text=Leave%20the%20password%20fields%20blank%20and%20simply%20click%20Continue%20.&text=Ubuntu%20will%20warn%20you%20that,passwords%20in%20an%20unencrypted%20format.)
 
 ## Other
