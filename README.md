@@ -5,13 +5,13 @@ could be useful for someone else.
 
 ## Arduino <img align="right" width="90" height="60" src="images/arduino.png">
  - [Arduino Cheatsheet](https://github.com/liffiton/Arduino-Cheat-Sheet)
-
-## CSS <img align="right" width="80" height="80" src="images/css.png">
- - [CSS Cheatsheet](https://github.com/AdamMarsden/css-cheat-sheet)
-
+ 
 ## C <img align="right" width="70" height="80" src="images/c.png">
  - [Recommended C style and coding rules](https://github.com/MaJerle/c-code-style)
  - [C Language Links](https://github.com/DJviolin/the-c-programming-language/blob/master/c-cheat-sheet.md)
+
+## CSS <img align="right" width="80" height="80" src="images/css.png">
+ - [CSS Cheatsheet](https://github.com/AdamMarsden/css-cheat-sheet)
 
 ## Electronics <img align="right" width="80" height="80" src="images/electronics.jpg">
  - [DIY Arduino RC Transmiter](https://howtomechatronics.com/projects/diy-arduino-rc-transmitter/)
