@@ -66,9 +66,9 @@ could be useful for someone else.
  - [Awesome Shell](https://github.com/alebcay/awesome-shell)
  - [Easing Functions Cheatsheet](https://easings.net/)
  - [Emoji List](https://es.piliapp.com/emoji/list/)
- - [Refactoring and Design Patters] (https://refactoring.guru/)
- - [How To Build Recommendation Algorithms And System Designs] (https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
- - [halp] (https://github.com/orhun/halp)
+ - [Refactoring and Design Patters](https://refactoring.guru/)
+ - [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
+ - [halp](https://github.com/orhun/halp)
  
 ## Interesting Posts
  - [Implementing Async Features in Python - A Step-by-step Guide](https://www.velotio.com/engineering-blog/async-features-in-python#:~:text=An%20async%20function%20uses%20the,Tasks%20as%20a%20Future%20object)
