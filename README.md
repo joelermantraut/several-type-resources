@@ -59,16 +59,19 @@ could be useful for someone else.
 ## Linux <img align="right" width="90" height="60" src="images/linux.png">
  - [How to disable keyring popup on Ubuntu](https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu#:~:text=In%20the%20keyring%20application%2C%20right,and%20click%20on%20Change%20Password%20.&text=Authenticate%20with%20the%20keyring%20by%20using%20your%20current%20password.&text=Leave%20the%20password%20fields%20blank%20and%20simply%20click%20Continue%20.&text=Ubuntu%20will%20warn%20you%20that,passwords%20in%20an%20unencrypted%20format.)
 
-## Other
+## Common Use Cheatsheets
  - [Awesome](https://github.com/sindresorhus/awesome#programming-languages)
  - [Awesome Cheatsheets](https://github.com/detailyang/awesome-cheatsheet)
  - [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
  - [Awesome Shell](https://github.com/alebcay/awesome-shell)
  - [Easing Functions Cheatsheet](https://easings.net/)
+
+## Other
  - [Emoji List](https://es.piliapp.com/emoji/list/)
  - [Refactoring and Design Patters](https://refactoring.guru/)
  - [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
  - [halp](https://github.com/orhun/halp)
+ - [Packaging PySide6 applications for Windows with PyInstaller & InstallForge](https://www.pythonguis.com/tutorials/packaging-pyside6-applications-windows-pyinstaller-installforge/)
  
 ## Interesting Posts
  - [Implementing Async Features in Python - A Step-by-step Guide](https://www.velotio.com/engineering-blog/async-features-in-python#:~:text=An%20async%20function%20uses%20the,Tasks%20as%20a%20Future%20object)
