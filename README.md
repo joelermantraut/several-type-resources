@@ -48,6 +48,7 @@ could be useful for someone else.
  - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
  - [Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
  - [Pip Cheatshet](http://dcjtech.info/wp-content/uploads/2015/10/Pip-Cheatsheet.pdf)
+ - [Packaging PySide6 applications for Windows with PyInstaller & InstallForge](https://www.pythonguis.com/tutorials/packaging-pyside6-applications-windows-pyinstaller-installforge/)
 
 ## Sass/Scss <img align="right" width="80" height="80" src="images/sass.svg">
  - [Sass Cheatsheet](https://devhints.io/sass)
@@ -71,7 +72,6 @@ could be useful for someone else.
  - [Refactoring and Design Patters](https://refactoring.guru/)
  - [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
  - [halp](https://github.com/orhun/halp)
- - [Packaging PySide6 applications for Windows with PyInstaller & InstallForge](https://www.pythonguis.com/tutorials/packaging-pyside6-applications-windows-pyinstaller-installforge/)
  
 ## Interesting Posts
  - [Implementing Async Features in Python - A Step-by-step Guide](https://www.velotio.com/engineering-blog/async-features-in-python#:~:text=An%20async%20function%20uses%20the,Tasks%20as%20a%20Future%20object)
