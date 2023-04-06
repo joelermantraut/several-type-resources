@@ -13,7 +13,6 @@ could be useful for someone else.
  - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
  - [ML dev setup](https://www.craft.do/s/WaF8mlClNnheaM/b/5C4A64F7-16CA-4F2F-AD6A-9545270ED32E/Scaling-deep-learning)
  - [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
- - 
 
 ## Arduino <img align="right" width="90" height="60" src="images/arduino.png">
  - [Arduino Cheatsheet](https://github.com/liffiton/Arduino-Cheat-Sheet)
