@@ -102,6 +102,7 @@ could be useful for someone else.
  - [Developer Roadmap](https://roadmap.sh/)
  - [David.li](http://david.li/)
  - [Emupedia](https://emupedia.net/beta/emuos/)
+ - [NirSoft](https://www.nirsoft.net/)
  
 ## Interesting Posts
  - [Implementing Async Features in Python - A Step-by-step Guide](https://www.velotio.com/engineering-blog/async-features-in-python#:~:text=An%20async%20function%20uses%20the,Tasks%20as%20a%20Future%20object)
