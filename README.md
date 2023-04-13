@@ -33,7 +33,7 @@ could be useful for someone else.
 
 ## Git <img align="right" width="100" height="100" src="images/git.png">
  - [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
- - [Git Cheatsheet](https://gist.github.com/hofmannsven/6814451)
+ - [Git Cheatsheet](https://gitsheet.wtf/)
  - [Gitignore Generator](https://www.toptal.com/developers/gitignore)
  - [Github Workflow](https://guides.github.com/introduction/flow/)
  - [Gitignore.io](https://www.toptal.com/developers/gitignore)
@@ -47,6 +47,8 @@ could be useful for someone else.
 ## HTML (WEB) <img align="right" width="80" height="80" src="images/html.png">
  - [Odin Project Curriculum](https://www.theodinproject.com/)
  - [Easings Functions](https://easings.net/)
+ - [Can I Use](https://caniuse.com/)
+ - [HTML Cheatsheet](https://htmlcheatsheet.com/)
 
 ## Javascript <img align="right" width="80" height="80" src="images/javascript.png">
  - [Javascript Cheatsheet](https://github.com/krishnr/JavaScript-cheat-sheet)
@@ -66,6 +68,7 @@ could be useful for someone else.
  - [Pug Cheatsheet](https://gist.github.com/uxblonde/0dc6735949b9cfa52cbbb3a0b9a7cef7)
 
 ## Python <img align="right" width="80" height="80" src="images/python.png">
+ - [Awesome Python](https://github.com/vinta/awesome-python)
  - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
  - [Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
  - [Pip Cheatshet](http://dcjtech.info/wp-content/uploads/2015/10/Pip-Cheatsheet.pdf)
@@ -83,6 +86,7 @@ could be useful for someone else.
  - [How to disable keyring popup on Ubuntu](https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu#:~:text=In%20the%20keyring%20application%2C%20right,and%20click%20on%20Change%20Password%20.&text=Authenticate%20with%20the%20keyring%20by%20using%20your%20current%20password.&text=Leave%20the%20password%20fields%20blank%20and%20simply%20click%20Continue%20.&text=Ubuntu%20will%20warn%20you%20that,passwords%20in%20an%20unencrypted%20format.)
 
 ## Common Use Cheatsheets
+ - [The Algorithms](https://the-algorithms.com/es)
  - [Awesome](https://github.com/sindresorhus/awesome#programming-languages)
  - [Awesome Cheatsheets](https://github.com/detailyang/awesome-cheatsheet)
  - [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
@@ -94,6 +98,7 @@ could be useful for someone else.
  - [Vim Galore](https://github.com/mhinz/vim-galore)
  - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
  - [Rapid API](https://rapidapi.com/hub)
+ - [Overapi](https://overapi.com/)
 
 ## Other
  - [Emoji List](https://es.piliapp.com/emoji/list/)
@@ -139,6 +144,12 @@ could be useful for someone else.
 - [Mirroful](https://github.com/Mirrorful/mirrorful)
 - [Gridzzly](http://gridzzly.com/)
 - [Animatiss](https://xsgames.co/animatiss/)
+- [Videezy](https://www.videezy.com/)
+- [Pixabay](https://pixabay.com/)
+- [Coverr.co](https://coverr.co/)
+- [Pexels](https://www.pexels.com)
+- [Mixkit](https://mixkit.co/)
+- [Dareful](https://dareful.com/)
 
 ## Academic
 - [Resoomer](https://resoomer.com/es/)
@@ -154,6 +165,7 @@ could be useful for someone else.
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont)
 - [Google Academics](https://scholar.google.com/)
 - [PDFDrive](https://www.pdfdrive.com/)
+- [Map Deduce](https://mapdeduce.com/)
 
 ## Learning Tools
 - [Codewars](https://www.codewars.com/dashboard)
