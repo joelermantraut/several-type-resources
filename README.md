@@ -74,6 +74,7 @@ could be useful for someone else.
  - [Pip Cheatshet](http://dcjtech.info/wp-content/uploads/2015/10/Pip-Cheatsheet.pdf)
  - [Conda Cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
  - [Packaging PySide6 applications for Windows with PyInstaller & InstallForge](https://www.pythonguis.com/tutorials/packaging-pyside6-applications-windows-pyinstaller-installforge/)
+  - [Implementing Async Features in Python - A Step-by-step Guide](https://www.velotio.com/engineering-blog/async-features-in-python#:~:text=An%20async%20function%20uses%20the,Tasks%20as%20a%20Future%20object)
 
 ## Sass/Scss <img align="right" width="80" height="80" src="images/sass.png">
  - [Sass Cheatsheet](https://devhints.io/sass)
@@ -88,17 +89,21 @@ could be useful for someone else.
  - [MySQL Sorted Cheatsheet](https://devhints.io/mysql)
 
 ## Linux <img align="right" width="90" height="60" src="images/linux.png">
- - [How to disable keyring popup on Ubuntu](https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu#:~:text=In%20the%20keyring%20application%2C%20right,and%20click%20on%20Change%20Password%20.&text=Authenticate%20with%20the%20keyring%20by%20using%20your%20current%20password.&text=Leave%20the%20password%20fields%20blank%20and%20simply%20click%20Continue%20.&text=Ubuntu%20will%20warn%20you%20that,passwords%20in%20an%20unencrypted%20format.)
+ - [Awesome Shell](https://github.com/alebcay/awesome-shell)
+ - [GNU datamash](https://www.gnu.org/software/datamash/)
+ - [archuseriso](https://github.com/laurent85v/archuseriso)
+ - [halp](https://github.com/orhun/halp)
+
+## Windows <img align="right" width="90" height="60" src="images/windows.png">
+ - [NirSoft](https://www.nirsoft.net/)
 
 ## Common Use Cheatsheets
  - [The Algorithms](https://the-algorithms.com/es)
  - [Awesome](https://github.com/sindresorhus/awesome#programming-languages)
  - [Awesome Cheatsheets](https://github.com/detailyang/awesome-cheatsheet)
  - [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
- - [Awesome Shell](https://github.com/alebcay/awesome-shell)
  - [Awesome Programming Language](https://github.com/sindresorhus/awesome#programming-languages)
  - [Easing Functions Cheatsheet](https://easings.net/)
- - [Git Cheatsheet](https://gist.github.com/hofmannsven/6814451)
  - [Nerd Fonts Cheatsheet](https://www.nerdfonts.com/cheat-sheet)
  - [Vim Galore](https://github.com/mhinz/vim-galore)
  - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
@@ -112,19 +117,14 @@ could be useful for someone else.
  - [Developer Roadmap](https://roadmap.sh/)
  - [David.li](http://david.li/)
  - [Emupedia](https://emupedia.net/beta/emuos/)
- - [NirSoft](https://www.nirsoft.net/)
  - [Zofti](https://zofti.com/)
  
 ## Interesting Posts
- - [Implementing Async Features in Python - A Step-by-step Guide](https://www.velotio.com/engineering-blog/async-features-in-python#:~:text=An%20async%20function%20uses%20the,Tasks%20as%20a%20Future%20object)
  - [Making an Algorithm 1,606,240% FASTER](https://www.youtube.com/watch?v=U16RnpV48KQ)
 
 ## Tools
 - [Pandoc](https://pandoc.org/getting-started.html)
 - [Cheat.sh](https://github.com/chubin/cheat.sh)
-- [GNU datamash](https://www.gnu.org/software/datamash/)
-- [archuseriso](https://github.com/laurent85v/archuseriso)
-- [halp](https://github.com/orhun/halp)
 - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
 - [12ft Ladder](https://12ft.io/)
 - [Web Archive](https://web.archive.org/)
