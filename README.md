@@ -84,7 +84,7 @@ could be useful for someone else.
  - [Tilen Majerle STM32F4 libraries](http://stm32f4-discovery.net/2014/05/all-stm32f429-libraries-at-one-place/)
  - [STM32-Tutorials](https://github.com/MYaqoobEmbedded/STM32-Tutorials)
  
-## SQL <img align="right" width="205" height="70" src="images/mysql.png">
+## SQL <img align="right" width="70" height="70" src="images/mysql.png">
  - [MySQL Cheatsheet](https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3)
  - [MySQL Sorted Cheatsheet](https://devhints.io/mysql)
 
@@ -94,7 +94,7 @@ could be useful for someone else.
  - [archuseriso](https://github.com/laurent85v/archuseriso)
  - [halp](https://github.com/orhun/halp)
 
-## Windows <img align="right" width="90" height="60" src="images/windows.png">
+## Windows <img align="right" width="205" height="60" src="images/windows.png">
  - [NirSoft](https://www.nirsoft.net/)
 
 ## Common Use Cheatsheets
