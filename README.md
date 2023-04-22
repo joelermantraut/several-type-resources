@@ -109,6 +109,7 @@ could be useful for someone else.
  - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
  - [Rapid API](https://rapidapi.com/hub)
  - [Overapi](https://overapi.com/)
+ - [Zetcode](https://zetcode.com/all/)
 
 ## Other
  - [Emoji List](https://es.piliapp.com/emoji/list/)
