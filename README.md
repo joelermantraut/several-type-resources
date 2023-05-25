@@ -125,6 +125,7 @@ could be useful for someone else.
 
 ## Tools
 - [Pandoc](https://pandoc.org/getting-started.html):  If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
+- [PDF24 tools](https://tools.pdf24.org/es/): Collection of PDF tools.
 - [Cheat.sh](https://github.com/chubin/cheat.sh): Unified access to the best community driven cheat sheets repositories of the world.
 - [12ft Ladder](https://12ft.io/): Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article.
 - [Web Archive](https://web.archive.org/)
@@ -176,6 +177,7 @@ could be useful for someone else.
 - [Dianet](https://dialnet.unirioja.es/)
 - [Filadd](https://filadd.com/): University writing essentials collection.
 - [Library Genesis](http://libgen.rs/)
+- [OpenLibrary](https://openlibrary.org/)
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont)
 - [Google Academics](https://scholar.google.com/)
 - [PDFDrive](https://www.pdfdrive.com/): Ebooks collection, free download.
