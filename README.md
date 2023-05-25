@@ -158,20 +158,18 @@ could be useful for someone else.
 - [Emoji List](https://es.piliapp.com/emoji/list/)
 
 ## Academic
-- [Resoomer](https://resoomer.com/es/)
-- [Smodin](https://smodin.io/)
-- [Sci-hub](https://sci-hub.se/)
-- [Slidergo](https://slidesgo.com/)
+- [Resoomer](https://resoomer.com/en): Go to the main ideas in your texts, summarize them relevantly in 1 Click.
+- [Sci-hub](https://sci-hub.se/): The goal of Sci-Hub is to provide free and unrestricted access to all scientific knowledge ever published in journal or book form.
+- [Slidergo](https://slidesgo.com/): Free Google Slides and PowerPoint templates.
 - [Doc Downloader](https://docdownloader.com/)
 - [Cite This Forme](https://www.citethisforme.com/)
 - [Dianet](https://dialnet.unirioja.es/)
-- [Creately](https://creately.com/)
-- [Filadd](https://filadd.com/)
+- [Filadd](https://filadd.com/): University writing essentials collection.
 - [Library Genesis](http://libgen.rs/)
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont)
 - [Google Academics](https://scholar.google.com/)
-- [PDFDrive](https://www.pdfdrive.com/)
-- [Map Deduce](https://mapdeduce.com/)
+- [PDFDrive](https://www.pdfdrive.com/): Ebooks collection, free download.
+- [Map Deduce](https://mapdeduce.com/): Understand any document with the help of AI.
 
 ## Learning Tools
 - [Codewars](https://www.codewars.com/dashboard)
