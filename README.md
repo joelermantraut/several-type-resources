@@ -141,6 +141,7 @@ could be useful for someone else.
  - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
  - [Gamma Slides](https://gamma.app/): Create visual slides only by description.
  - [Krisp](https://krisp.ai/): Cancel noise in audio, transcript and take notes in real time.
+ - [Rose AI](https://rose.ai/): Simplifies researching.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
