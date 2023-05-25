@@ -143,9 +143,11 @@ could be useful for someone else.
  - [Krisp](https://krisp.ai/): Cancel noise in audio, transcript and take notes in real time.
  - [Rose AI](https://rose.ai/): Simplifies researching.
  - [Replicate](https://replicate.com/nightmareai/real-esrgan): Increase image resolution.
+ - [Numerous](https://numerous.ai/): Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
+- [Collect UI](https://collectui.com/): UI examples collection.
 - [Fontastic](https://fontastic.me/): Collection of icons fonts.
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free)
 - [Silk](http://weavesilk.com/): Interactive generative art.
