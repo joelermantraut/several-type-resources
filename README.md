@@ -138,6 +138,7 @@ could be useful for someone else.
  - [WolframAlpha](https://www.wolframalpha.com/?source=wordcloud)
  - [TinyWoW](https://tinywow.com/): Collection of media AI tools.
  - [CodeConverter](https://www.codeconvert.ai/)
+ - [AgentGPT](https://agentgpt.reworkd.ai/): Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
