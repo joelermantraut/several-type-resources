@@ -168,6 +168,16 @@ could be useful for someone else.
 - [Dareful](https://dareful.com/): Download Free Stock Video Footage in 4K & HD.
 - [Emoji List](https://es.piliapp.com/emoji/list/)
 
+### Background generators
+ - [Kaikei](https://haikei.app/)
+ - [Bgjar](https://bgjar.com/)
+ - [CoolBackgrounds](https://coolbackgrounds.io/)
+ - [Meshgradient](https://meshgradient.in/)
+ - [Gradienta](https://codioful.com/)
+ - [SVGBackgrounds](https://www.svgbackgrounds.com/)
+ - [PatternPad](https://patternpad.com/)
+ - [AnimateStyle](https://animate.style/)
+
 ## Academic
 - [Resoomer](https://resoomer.com/en): Go to the main ideas in your texts, summarize them relevantly in 1 Click.
 - [Sci-hub](https://sci-hub.se/): The goal of Sci-Hub is to provide free and unrestricted access to all scientific knowledge ever published in journal or book form.
