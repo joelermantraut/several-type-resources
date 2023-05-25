@@ -4,20 +4,20 @@ This is a list of resources that were interesting for me, and maybe
 could be useful for someone else.
 
 ## AI <img align="right" width="90" height="60" src="images/ai.jpg">
- - [The Fastai Book](https://github.com/fastai/fastbook)
- - [Deep detect](https://github.com/beniz/deepdetect)
- - [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/)
- - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+ - [The Fastai Book](https://github.com/fastai/fastbook): Introduction to deep learning.
+ - [Deep detect](https://github.com/beniz/deepdetect): Machine learning API and server written in C++.
+ - [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/): Large-scale dataset of narrated videos with an emphasis on instructional videos where content creators teach complex tasks with an explicit intention of explaining the visual content on screen.
+ - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning): List of awesome open source libraries about machine learning.
  - [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
  - [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
  - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
- - [ML dev setup](https://www.craft.do/s/WaF8mlClNnheaM/b/5C4A64F7-16CA-4F2F-AD6A-9545270ED32E/Scaling-deep-learning)
+ - [ML dev setup](https://www.craft.do/s/WaF8mlClNnheaM): Large scale resources, machine learning primary.
  - [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 ## Arduino <img align="right" width="90" height="60" src="images/arduino.png">
  - [Arduino Cheatsheet](https://github.com/liffiton/Arduino-Cheat-Sheet)
  - [Prometec](https://www.prometec.net/indice-tutoriales/)
- - [Arduino Songs](https://github.com/robsoncouto/arduino-songs)
+ - [Arduino Songs](https://github.com/robsoncouto/arduino-songs): Songs for playing on Arduino boards.
  
 ## C <img align="right" width="70" height="80" src="images/c.png">
  - [Recommended C style and coding rules](https://github.com/MaJerle/c-code-style)
@@ -140,6 +140,7 @@ could be useful for someone else.
  - [TinyWoW](https://tinywow.com/)
 
 ## Design
+- [Tools Design](https://www.toools.design/)
 - [Fontastic](https://fontastic.me/)
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free)
 - [Silk](http://weavesilk.com/)
