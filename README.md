@@ -86,6 +86,7 @@ could be useful for someone else.
 ## SQL <img align="right" width="70" height="70" src="images/mysql.png">
  - [MySQL Cheatsheet](https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3)
  - [MySQL Sorted Cheatsheet](https://devhints.io/mysql)
+ - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
 
 ## Linux <img align="right" width="90" height="60" src="images/linux.png">
  - [Awesome Shell](https://github.com/alebcay/awesome-shell)
@@ -110,52 +111,51 @@ could be useful for someone else.
  - [Zetcode](https://zetcode.com/): ZetCode provides accessible tutorials for C#, Go, Python, Java, and JavaScript programming languages.
 
 ## Other
- - [Emoji List](https://es.piliapp.com/emoji/list/)
  - [Refactoring and Design Patters](https://refactoring.guru/)
  - [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
- - [Developer Roadmap](https://roadmap.sh/)
- - [David.li](http://david.li/)
- - [Emupedia](https://emupedia.net/beta/emuos/)
- - [Zofti](https://zofti.com/)
+ - [Developer Roadmap](https://roadmap.sh/): Community effort to create roadmaps, guides and other educational content to help guide developers in picking up the path and guide their learnings.
+ - [David.li](http://david.li/): Collection of crazy effects simulator.
+ - [Emupedia](https://emupedia.net/beta/emuos/): Old Windows version simulator.
+ - [Zofti](https://zofti.com/): Driver collection page.
  
 ## Interesting Posts
  - [Making an Algorithm 1,606,240% FASTER](https://www.youtube.com/watch?v=U16RnpV48KQ)
 
 ## Tools
-- [Pandoc](https://pandoc.org/getting-started.html)
-- [Cheat.sh](https://github.com/chubin/cheat.sh)
-- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
-- [12ft Ladder](https://12ft.io/)
+- [Pandoc](https://pandoc.org/getting-started.html):  If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
+- [Cheat.sh](https://github.com/chubin/cheat.sh): Unified access to the best community driven cheat sheets repositories of the world.
+- [12ft Ladder](https://12ft.io/): Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article.
 - [Web Archive](https://web.archive.org/)
 
 ### AI
  - [ChatGPT](https://chat.openai.com/chat)
  - [DALL-E](https://openai.com/product/dall-e-2)
- - [DoNotPay](https://donotpay.com/)
- - [CopyAI](https://www.copy.ai/)
- - [Axiom](https://axiom.ai/)
+ - [DoNotPay](https://donotpay.com/): Lawyer AI.
+ - [CopyAI](https://www.copy.ai/): Text comprehension AI.
+ - [Axiom](https://axiom.ai/): Browser Automation. Quickly, without code.
  - [WolframAlpha](https://www.wolframalpha.com/?source=wordcloud)
- - [TinyWoW](https://tinywow.com/)
+ - [TinyWoW](https://tinywow.com/): Collection of media AI tools.
 
 ## Design
-- [Tools Design](https://www.toools.design/)
-- [Fontastic](https://fontastic.me/)
+- [Tools Design](https://www.toools.design/): Collection of design resources and tools.
+- [Fontastic](https://fontastic.me/): Collection of icons fonts.
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free)
-- [Silk](http://weavesilk.com/)
-- [Dafont](https://www.dafont.com/es/)
+- [Silk](http://weavesilk.com/): Interactive generative art.
+- [Dafont](https://www.dafont.com/es/): Collection of system fonts.
 - [Google Fonts](https://fonts.google.com/)
-- [Calligraphr](https://www.calligraphr.com/es/)
-- [AutoDraw](https://www.autodraw.com/)
-- [Freepik](https://www.freepik.es/psd-populares)
-- [Mirroful](https://github.com/Mirrorful/mirrorful)
-- [Gridzzly](http://gridzzly.com/)
-- [Animatiss](https://xsgames.co/animatiss/)
-- [Videezy](https://www.videezy.com/)
-- [Pixabay](https://pixabay.com/)
-- [Coverr.co](https://coverr.co/)
-- [Pexels](https://www.pexels.com)
-- [Mixkit](https://mixkit.co/)
-- [Dareful](https://dareful.com/)
+- [Calligraphr](https://www.calligraphr.com/): Transform your handwriting or calligraphy into a font!
+- [AutoDraw](https://www.autodraw.com/): AI that detects object from drawing.
+- [Freepik](https://www.freepik.es/psd-populares): Images collection.
+- [Mirroful](https://github.com/Mirrorful/mirrorful): Mirrorful is an open-source design system framework that teams use to create and manage the building blocks of their app.
+- [Gridzzly](http://gridzzly.com/): Make your own grid paper.
+- [Animatiss](https://xsgames.co/animatiss/): Nice collection of CSS animations for your awesome web projects.
+- [Videezy](https://www.videezy.com/): Free HD Stock Footage.
+- [Pixabay](https://pixabay.com/): Stunning royalty-free images & royalty-free stock.
+- [Coverr.co](https://coverr.co/): Beautiful Free Stock Video Footage.
+- [Pexels](https://www.pexels.com): Free stock photos, royalty free images & videos shared by creators.
+- [Mixkit](https://mixkit.co/): Free assets for your next video project.
+- [Dareful](https://dareful.com/): Download Free Stock Video Footage in 4K & HD.
+- [Emoji List](https://es.piliapp.com/emoji/list/)
 
 ## Academic
 - [Resoomer](https://resoomer.com/es/)
