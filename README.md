@@ -171,6 +171,7 @@ could be useful for someone else.
 - [Google Academics](https://scholar.google.com/)
 - [PDFDrive](https://www.pdfdrive.com/): Ebooks collection, free download.
 - [Map Deduce](https://mapdeduce.com/): Understand any document with the help of AI.
+- [Scispace](https://typeset.io/): Resume papers with AI.
 
 ## Learning Tools
 - [Codewars](https://www.codewars.com/dashboard)
