@@ -36,7 +36,6 @@ could be useful for someone else.
  - [Git Cheatsheet](https://gitsheet.wtf/)
  - [Gitignore Generator](https://www.toptal.com/developers/gitignore)
  - [Github Workflow](https://guides.github.com/introduction/flow/)
- - [Gitignore.io](https://www.toptal.com/developers/gitignore)
 
 ## Go Language <img align="right" width="100" height="100" src="images/golang.png">
  - [Go by Example](https://gobyexample.com/)
@@ -45,15 +44,15 @@ could be useful for someone else.
  - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org)
 
 ## HTML (WEB) <img align="right" width="80" height="80" src="images/html.png">
- - [Odin Project Curriculum](https://www.theodinproject.com/)
+ - [Odin Project Curriculum](https://www.theodinproject.com/): Full stack curriculum, free and supported by open source community.
  - [Easings Functions](https://easings.net/)
  - [Can I Use](https://caniuse.com/)
  - [HTML Cheatsheet](https://htmlcheatsheet.com/)
 
 ## Javascript <img align="right" width="80" height="80" src="images/javascript.png">
  - [Javascript Cheatsheet](https://github.com/krishnr/JavaScript-cheat-sheet)
- - [Javascript Question](https://github.com/lydiahallie/javascript-questions)
  - [Javascript Module Patterns](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+ - [Javascript Question](https://github.com/lydiahallie/javascript-questions): From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview!
 
 ## Markdown <img align="right" width="80" height="80" src="images/markdown.png">
  - [Basic Sintax](https://www.markdownguide.org/basic-syntax/)
@@ -62,7 +61,7 @@ could be useful for someone else.
 
 ## Neovim <img align="right" width="80" height="80" src="images/vim.png">
  - [NeoVim Cheatsheet](https://devhints.io/vim)
- - [Vim Galore](https://github.com/mhinz/vim-galore)
+ - [Vim Galore](https://github.com/mhinz/vim-galore): VIM Manual.
 
 ## Pug <img align="right" width="80" height="80" src="images/pug.png">
  - [Pug Cheatsheet](https://gist.github.com/uxblonde/0dc6735949b9cfa52cbbb3a0b9a7cef7)
@@ -90,26 +89,25 @@ could be useful for someone else.
 
 ## Linux <img align="right" width="90" height="60" src="images/linux.png">
  - [Awesome Shell](https://github.com/alebcay/awesome-shell)
- - [GNU datamash](https://www.gnu.org/software/datamash/)
- - [archuseriso](https://github.com/laurent85v/archuseriso)
- - [halp](https://github.com/orhun/halp)
+ - [GNU datamash](https://www.gnu.org/software/datamash/): Command-line program which performs basic numeric, textual and statistical operations on input textual data files.
+ - [archuseriso](https://github.com/laurent85v/archuseriso): Set of scripts for creating bootable disk images of Arch Linux and installing an Arch Linux system to an external USB disk or thumb drive.
+ - [halp](https://github.com/orhun/halp): A CLI tool to get help with CLI tools.
 
 ## Windows <img align="right" width="205" height="60" src="images/windows.png">
- - [NirSoft](https://www.nirsoft.net/)
+ - [NirSoft](https://www.nirsoft.net/): Unique collection of small and useful freeware utilities.
 
 ## Common Use Cheatsheets
- - [The Algorithms](https://the-algorithms.com/es)
- - [Awesome](https://github.com/sindresorhus/awesome#programming-languages)
+ - [The Algorithms](https://the-algorithms.com/): GitHub's largest open-source algorithm library.
+ - [Awesome](https://github.com/sindresorhus/awesome)
  - [Awesome Cheatsheets](https://github.com/detailyang/awesome-cheatsheet)
  - [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
  - [Awesome Programming Language](https://github.com/sindresorhus/awesome#programming-languages)
  - [Easing Functions Cheatsheet](https://easings.net/)
  - [Nerd Fonts Cheatsheet](https://www.nerdfonts.com/cheat-sheet)
- - [Vim Galore](https://github.com/mhinz/vim-galore)
  - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
- - [Rapid API](https://rapidapi.com/hub)
- - [Overapi](https://overapi.com/)
- - [Zetcode](https://zetcode.com/all/)
+ - [Rapid API](https://rapidapi.com/hub): Discover and connect to thousands of APIs.
+ - [Overapi](https://overapi.com/): API Cheat sheets collection.
+ - [Zetcode](https://zetcode.com/): ZetCode provides accessible tutorials for C#, Go, Python, Java, and JavaScript programming languages.
 
 ## Other
  - [Emoji List](https://es.piliapp.com/emoji/list/)
