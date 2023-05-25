@@ -142,6 +142,7 @@ could be useful for someone else.
  - [Gamma Slides](https://gamma.app/): Create visual slides only by description.
  - [Krisp](https://krisp.ai/): Cancel noise in audio, transcript and take notes in real time.
  - [Rose AI](https://rose.ai/): Simplifies researching.
+ - [Replicate](https://replicate.com/nightmareai/real-esrgan): Increase image resolution.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
