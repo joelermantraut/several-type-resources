@@ -149,6 +149,7 @@ could be useful for someone else.
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
 - [Collect UI](https://collectui.com/): UI examples collection.
+- [Uizard](https://uizard.io/): Turn screenshots into editable designs.
 - [Fontastic](https://fontastic.me/): Collection of icons fonts.
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free)
 - [Silk](http://weavesilk.com/): Interactive generative art.
