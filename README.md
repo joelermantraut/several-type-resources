@@ -129,6 +129,7 @@ could be useful for someone else.
 - [Cheat.sh](https://github.com/chubin/cheat.sh): Unified access to the best community driven cheat sheets repositories of the world.
 - [12ft Ladder](https://12ft.io/): Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article.
 - [Web Archive](https://web.archive.org/)
+- [El Libro Total](https://www.ellibrototal.com/ltotal/): Portal de libros en español.
 
 ### AI
  - [ChatGPT](https://chat.openai.com/chat)
@@ -145,6 +146,7 @@ could be useful for someone else.
  - [Rose AI](https://rose.ai/): Simplifies researching.
  - [Replicate](https://replicate.com/nightmareai/real-esrgan): Increase image resolution.
  - [Numerous](https://numerous.ai/): Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet.
+ - [Chequeado](https://chequeado.com/desgrabador/): Video transcriptionist.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
@@ -168,6 +170,7 @@ could be useful for someone else.
 - [Mixkit](https://mixkit.co/): Free assets for your next video project.
 - [Dareful](https://dareful.com/): Download Free Stock Video Footage in 4K & HD.
 - [Emoji List](https://es.piliapp.com/emoji/list/)
+- [Responsively](https://responsively.app/): Develop responsive web apps 5x faster!
 
 ### Background generators
  - [Kaikei](https://haikei.app/)
@@ -194,6 +197,7 @@ could be useful for someone else.
 - [PDFDrive](https://www.pdfdrive.com/): Ebooks collection, free download.
 - [Map Deduce](https://mapdeduce.com/): Understand any document with the help of AI.
 - [Scispace](https://typeset.io/): Resume papers with AI.
+- [Docsity](https://www.docsity.com/en): Search among millions of documents and more.
 
 ## Learning Tools
 - [Codewars](https://www.codewars.com/dashboard)
