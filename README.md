@@ -119,6 +119,7 @@ could be useful for someone else.
  - [David.li](http://david.li/): Collection of crazy effects simulator.
  - [Emupedia](https://emupedia.net/beta/emuos/): Old Windows version simulator.
  - [Zofti](https://zofti.com/): Driver collection page.
+ - [DevDocs](https://devdocs.io/): DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
  
 ## Interesting Posts
  - [Making an Algorithm 1,606,240% FASTER](https://www.youtube.com/watch?v=U16RnpV48KQ)
@@ -147,6 +148,8 @@ could be useful for someone else.
  - [Replicate](https://replicate.com/nightmareai/real-esrgan): Increase image resolution.
  - [Numerous](https://numerous.ai/): Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet.
  - [Chequeado](https://chequeado.com/desgrabador/): Video transcriptionist.
+ - [Easy Peasy](https://easy-peasy.ai/es): Content analyser.
+ - [ChatPDF](https://www.chatpdf.com/).
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
