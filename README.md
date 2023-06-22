@@ -4,6 +4,7 @@ This is a list of resources that were interesting for me, and maybe
 could be useful for someone else.
 
 ## AI <img align="right" width="90" height="60" src="images/ai.jpg">
+ - [Future AI Lab](https://futureailab.com/): Compendium of AI tools.
  - [The Fastai Book](https://github.com/fastai/fastbook): Introduction to deep learning.
  - [Deep detect](https://github.com/beniz/deepdetect): Machine learning API and server written in C++.
  - [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/): Large-scale dataset of narrated videos with an emphasis on instructional videos where content creators teach complex tasks with an explicit intention of explaining the visual content on screen.
