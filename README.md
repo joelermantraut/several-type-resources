@@ -174,6 +174,7 @@ could be useful for someone else.
 - [Dareful](https://dareful.com/): Download Free Stock Video Footage in 4K & HD.
 - [Emoji List](https://es.piliapp.com/emoji/list/)
 - [Responsively](https://responsively.app/): Develop responsive web apps 5x faster!
+- [Spline](https://spline.design/): Design and collaborate in 3d.
 
 ### Background generators
  - [Kaikei](https://haikei.app/)
@@ -201,6 +202,7 @@ could be useful for someone else.
 - [Map Deduce](https://mapdeduce.com/): Understand any document with the help of AI.
 - [Scispace](https://typeset.io/): Resume papers with AI.
 - [Docsity](https://www.docsity.com/en): Search among millions of documents and more.
+- [Perplexity](https://www.perplexity.ai/): Advance ChatGPT with option to select information source.
 
 ## Learning Tools
 - [Codewars](https://www.codewars.com/dashboard)
@@ -208,3 +210,4 @@ could be useful for someone else.
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [Leetcode](https://leetcode.com/)
 - [Exercism](https://exercism.org/)
+- [Fullstack.cafe](https://www.fullstack.cafe/)
