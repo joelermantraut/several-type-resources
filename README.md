@@ -219,3 +219,4 @@ could be useful for someone else.
 - [Leetcode](https://leetcode.com/)
 - [Exercism](https://exercism.org/)
 - [Fullstack.cafe](https://www.fullstack.cafe/)
+- [30 Seconds of Code](https://www.30secondsofcode.org/)
