@@ -157,12 +157,7 @@ could be useful for someone else.
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
 - [Collect UI](https://collectui.com/): UI examples collection.
 - [Uizard](https://uizard.io/): Turn screenshots into editable designs.
-- [Fontastic](https://fontastic.me/): Collection of icons fonts.
-- [FontShare](https://www.fontshare.com/)
-- [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free)
 - [Silk](http://weavesilk.com/): Interactive generative art.
-- [Dafont](https://www.dafont.com/es/): Collection of system fonts.
-- [Google Fonts](https://fonts.google.com/)
 - [Calligraphr](https://www.calligraphr.com/): Transform your handwriting or calligraphy into a font!
 - [AutoDraw](https://www.autodraw.com/): AI that detects object from drawing.
 - [Freepik](https://www.freepik.es/psd-populares): Images collection.
@@ -175,9 +170,19 @@ could be useful for someone else.
 - [Pexels](https://www.pexels.com): Free stock photos, royalty free images & videos shared by creators.
 - [Mixkit](https://mixkit.co/): Free assets for your next video project.
 - [Dareful](https://dareful.com/): Download Free Stock Video Footage in 4K & HD.
-- [Emoji List](https://es.piliapp.com/emoji/list/)
 - [Responsively](https://responsively.app/): Develop responsive web apps 5x faster!
 - [Spline](https://spline.design/): Design and collaborate in 3d.
+
+### Icons
+- [Tabler Icons](https://tabler-icons.io/)
+- [Fontastic](https://fontastic.me/): Collection of icons fonts.
+- [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free)
+- [Emoji List](https://es.piliapp.com/emoji/list/)
+
+### Fonts
+- [FontShare](https://www.fontshare.com/)
+- [Dafont](https://www.dafont.com/es/): Collection of system fonts.
+- [Google Fonts](https://fonts.google.com/)
 
 ### Background generators
  - [Kaikei](https://haikei.app/)
