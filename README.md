@@ -14,6 +14,7 @@ could be useful for someone else.
  - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
  - [ML dev setup](https://www.craft.do/s/WaF8mlClNnheaM): Large scale resources, machine learning primary.
  - [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+ - [Prompting Guide](https://www.promptingguide.ai/)
 
 ## Arduino <img align="right" width="90" height="60" src="images/arduino.png">
  - [Arduino Cheatsheet](https://github.com/liffiton/Arduino-Cheat-Sheet)
