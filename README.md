@@ -153,6 +153,8 @@ could be useful for someone else.
  - [Easy Peasy](https://easy-peasy.ai/es): Content analyser.
  - [ChatPDF](https://www.chatpdf.com/).
  - [ForeFront](https://www.forefront.ai/): Free access to GPT-4.
+ - [Playground AI](https://playgroundai.com/): Photoshop alternative with AI features.
+ - [Framer AI](https://www.framer.com/ai): Website designer and publisher.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
