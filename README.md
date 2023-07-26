@@ -66,6 +66,7 @@ could be useful for someone else.
 ## Neovim <img align="right" width="80" height="80" src="images/vim.png">
  - [NeoVim Cheatsheet](https://devhints.io/vim)
  - [Vim Galore](https://github.com/mhinz/vim-galore): VIM Manual.
+ - [Vim-plugins config](https://codingpotions.com/vim-plugins/)
 
 ## Pug <img align="right" width="80" height="80" src="images/pug.png">
  - [Pug Cheatsheet](https://gist.github.com/uxblonde/0dc6735949b9cfa52cbbb3a0b9a7cef7)
