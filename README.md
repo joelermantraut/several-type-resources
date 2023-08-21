@@ -87,6 +87,9 @@ could be useful for someone else.
  - [Tilen Majerle STM32F4 Web Page](https://stm32f4-discovery.net/)
  - [Tilen Majerle STM32F4 libraries](http://stm32f4-discovery.net/2014/05/all-stm32f429-libraries-at-one-place/)
  - [STM32-Tutorials](https://github.com/MYaqoobEmbedded/STM32-Tutorials)
+
+### Useful resources about STM Microcontrollers
+ - [Industrial trick for multiple ADC with DMA in STM32 without interrupt](https://github.com/MahdiKarimian/Multiple-ADC-with-DMA-in-STM32-without-interrupt)
  
 ## SQL <img align="right" width="70" height="70" src="images/mysql.png">
  - [MySQL Cheatsheet](https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3)
