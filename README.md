@@ -160,6 +160,7 @@ could be useful for someone else.
  - [ForeFront](https://www.forefront.ai/): Free access to GPT-4.
  - [Playground AI](https://playgroundai.com/): Photoshop alternative with AI features.
  - [Framer AI](https://www.framer.com/ai): Website designer and publisher.
+ - [InterviewsBy.AI](https://interviewsby.ai/)
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
@@ -180,6 +181,7 @@ could be useful for someone else.
 - [Dareful](https://dareful.com/): Download Free Stock Video Footage in 4K & HD.
 - [Responsively](https://responsively.app/): Develop responsive web apps 5x faster!
 - [Spline](https://spline.design/): Design and collaborate in 3d.
+- [MyInstants](https://www.myinstants.com/es/index/ar/)
 
 ### Icons
 - [Tabler Icons](https://tabler-icons.io/)
