@@ -221,6 +221,7 @@ could be useful for someone else.
 - [Scispace](https://typeset.io/): Resume papers with AI.
 - [Docsity](https://www.docsity.com/en): Search among millions of documents and more.
 - [Perplexity](https://www.perplexity.ai/): Advance ChatGPT with option to select information source.
+- [Gitmind](https://gitmind.com/es/)
 
 ## Learning Tools
 - [Codewars](https://www.codewars.com/dashboard)
