@@ -20,6 +20,7 @@ could be useful for someone else.
  - [Arduino Cheatsheet](https://github.com/liffiton/Arduino-Cheat-Sheet)
  - [Prometec](https://www.prometec.net/indice-tutoriales/)
  - [Arduino Songs](https://github.com/robsoncouto/arduino-songs): Songs for playing on Arduino boards.
+ - [Config Bluetooth Module HC-05 Guide](https://hetpro-store.com/TUTORIALES/configurar-bluetooth-hc-05-como-maestro-esclavo/)
  
 ## C <img align="right" width="70" height="80" src="images/c.png">
  - [Recommended C style and coding rules](https://github.com/MaJerle/c-code-style)
