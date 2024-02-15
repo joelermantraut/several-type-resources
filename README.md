@@ -162,6 +162,7 @@ could be useful for someone else.
  - [Playground AI](https://playgroundai.com/): Photoshop alternative with AI features.
  - [Framer AI](https://www.framer.com/ai): Website designer and publisher.
  - [InterviewsBy.AI](https://interviewsby.ai/)
+ - [Summarize.tech](https://www.summarize.tech/): Video detailed resoomer.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
