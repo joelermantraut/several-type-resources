@@ -106,6 +106,7 @@ could be useful for someone else.
 ## Windows <img align="right" width="205" height="60" src="images/windows.png">
  - [NirSoft](https://www.nirsoft.net/): Unique collection of small and useful freeware utilities.
  - [How to repair UEFI bootloader in Windows](https://woshub.com/how-to-repair-uefi-bootloader-in-windows-8/).
+ - [Window Media Creation Tool](https://github.com/AveYo/MediaCreationTool.bat): Script to download old version of Windows.
 
 ## Common Use Cheatsheets
  - [The Algorithms](https://the-algorithms.com/): GitHub's largest open-source algorithm library.
