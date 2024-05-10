@@ -141,7 +141,7 @@ could be useful for someone else.
 - [Web Archive](https://web.archive.org/)
 - [El Libro Total](https://www.ellibrototal.com/ltotal/): Portal de libros en español.
 
-### AI
+### AI Tools
  - [ChatGPT](https://chat.openai.com/chat)
  - [DALL-E](https://openai.com/product/dall-e-2)
  - [DoNotPay](https://donotpay.com/): Lawyer AI.
