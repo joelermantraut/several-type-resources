@@ -164,6 +164,8 @@ could be useful for someone else.
  - [Framer AI](https://www.framer.com/ai): Website designer and publisher.
  - [InterviewsBy.AI](https://interviewsby.ai/)
  - [Summarize.tech](https://www.summarize.tech/): Video detailed resoomer.
+ - [ImageFX](https://aitestkitchen.withgoogle.com/es/tools/image-fx): Generador de imágenes de Google.
+ - [Bing Designer](https://www.bing.com/images/create?FORM=GENILP): Generador de imágenes de Microsoft.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
