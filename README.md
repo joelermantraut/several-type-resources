@@ -166,6 +166,7 @@ could be useful for someone else.
  - [Summarize.tech](https://www.summarize.tech/): Video detailed resoomer.
  - [ImageFX](https://aitestkitchen.withgoogle.com/es/tools/image-fx): Google image generator.
  - [Bing Designer](https://www.bing.com/images/create?FORM=GENILP): Microsoft image generator.
+ - [AI Document Resoomer](https://smallpdf.com/es/ia-pdf)
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
