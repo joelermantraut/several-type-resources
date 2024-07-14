@@ -168,6 +168,7 @@ could be useful for someone else.
  - [Bing Designer](https://www.bing.com/images/create?FORM=GENILP): Microsoft image generator.
  - [AI Document Resoomer](https://smallpdf.com/es/ia-pdf)
  - [ResearchRabbit](https://www.researchrabbit.ai/): Spotify of researching.
+ - [ElevenLabs](https://elevenlabs.io/): Voice generator.
 
 ## Design
 - [Tools Design](https://www.toools.design/): Collection of design resources and tools.
